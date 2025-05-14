@@ -1,4 +1,4 @@
-# Phone Catalog
+# HotGadgets
 
 A modern web application built to showcase my front-end development skills, featuring a component-based architecture with React and TypeScript, styled with SCSS and CSS Modules. This project demonstrates my ability to create scalable, type-safe, and responsive interfaces, leveraging Vite for a fast and efficient development experience.
 
