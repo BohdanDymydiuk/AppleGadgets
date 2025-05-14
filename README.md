@@ -18,4 +18,4 @@ A modern web application built to showcase my front-end development skills, feat
   - **Vite**: Next-generation build tool for rapid development and efficient bundling.
   - **Git**: Version control for project management and portfolio presentation.
 
-[LIVE DEMO](https://nice-gadgets-pxe7.onrender.com/)
+[LIVE DEMO](https://applegadgets.onrender.com/)
